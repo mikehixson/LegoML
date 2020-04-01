@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capture", "Capture\Capture.csproj", "{58655662-5266-4DF3-B215-44FF02840045}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageClassificationTrainer", "ImageClassificationTrainer\ImageClassificationTrainer.csproj", "{E092DE43-E1FD-43AC-8190-F6E00367F075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58655662-5266-4DF3-B215-44FF02840045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58655662-5266-4DF3-B215-44FF02840045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58655662-5266-4DF3-B215-44FF02840045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58655662-5266-4DF3-B215-44FF02840045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E092DE43-E1FD-43AC-8190-F6E00367F075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E092DE43-E1FD-43AC-8190-F6E00367F075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E092DE43-E1FD-43AC-8190-F6E00367F075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E092DE43-E1FD-43AC-8190-F6E00367F075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4086D6F6-3116-46C2-9D01-877C351B5BA2}
+	EndGlobalSection
+EndGlobal
